@@ -1,2 +1,2 @@
 #testing rollback
-print('testing conflict management 2')
+print('testing conflict management correction')
